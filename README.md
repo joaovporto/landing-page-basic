@@ -7,7 +7,7 @@
 ## 🔥 Project Link
 
 
-<li><a href="https://joaovporto.github.io/interface/">Interface</li>
+<li><a href="https://joaovporto.github.io/landing-page-basic/">Interface</li>
 
 ## 🛠️ Technologies
 
